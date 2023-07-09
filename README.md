@@ -1,7 +1,7 @@
 # Projet WEB Development 
 ## SEOC 2A - 4PMIAWM - ＦｏｏｄＧｒａｍ :heart:
 
-**Elèeves:**:nerd_face:
+**Elèves:**:nerd_face:
 
 - Yassin Habib
 * Adrien Sonot 
