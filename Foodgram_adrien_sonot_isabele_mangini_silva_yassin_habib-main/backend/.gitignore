@@ -1,0 +1,5 @@
+node_modules
+log
+bmt.sqlite
+# Pour l'instant on ne stocke pas les photos par économie de place
+# pictures
